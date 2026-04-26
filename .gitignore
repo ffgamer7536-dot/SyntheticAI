@@ -1,0 +1,24 @@
+data/
+runs/
+saved_model_weights/
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+.venv/
+error.txt
+crash.txt
+final_metrics.txt
+fix_image_crops.py
+generate_report.py
+report_template.md
+Gaia_Hackathon_Report.pdf
+TerraVision_AI_Hackathon_Report.pdf
+Offroad_Segmentation_Training_Dataset/
+Offroad_Segmentation_testImages/
+
+# Auto-created
+dataset_stats.json
+*.tmp
+*.log
